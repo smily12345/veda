@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "education": "Education",
+    "simulation": "Vote Sim",
+    "eligibility": "Check Eligibility",
+    "quiz": "Quiz",
+    "awareness": "Awareness",
+    "parties": "Parties"
+  },
+  "home": {
+    "title": "Inclusive Election Education",
+    "subtitle": "Learn how to vote responsibly and make informed decisions.",
+    "selectLanguage": "Select Language",
+    "selectMode": "Select Mode",
+    "modeText": "Reading Mode",
+    "modeListen": "Listening Mode",
+    "startJourney": "Start Learning"
+  },
+  "listen": "Listen",
+  "disclaimer": "This application provides factual information for educational purposes only and does not support or promote any political party."
+}
